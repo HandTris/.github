@@ -1,6 +1,6 @@
 # HandTris
 
-### **Hand Motion Capture를 실시간 1:1 테트리스 대결 게임**
+### **Hand Motion Capture로 즐기는 실시간 1:1 테트리스 대결 게임**
 
 ## 🕹️ 소개
 HandTris는 핸드모션을 통해 즐기는 실시간 1:1 대결입니다
