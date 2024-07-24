@@ -1,5 +1,3 @@
-<div align="center">
-
 # HandTrics
 
 ### **Hand Motion Capture를 실시간 1:1 테트리스 대결 게임**
@@ -34,5 +32,3 @@ HandlTrics는 입출력 장치 없이 즐길 수 있는 테트리스 게임입�
 - 코어타임 : 13시 ~ 22시
 - 회고록 작성 시간 : 22시
 - 매일 오전 11시 스크럼 (slack)
-
-</div>
